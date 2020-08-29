@@ -1,0 +1,2 @@
+Ovo je tekstualni fajl
+za test git cmd
